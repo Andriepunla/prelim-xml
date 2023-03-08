@@ -126,4 +126,32 @@
          </Red>
       </Color>
    </Carnation>
+      <Dahlia>
+      <Life_span>
+         <Days>
+            <date>10 days - 2 weeks</date>
+         </Days>
+      </Life_span>
+      <plant_type>Perennial</plant_type>
+      <mature_size>1-6 ft. tall, and 1-3 ft. wide</mature_size>
+      <sun_exposure>Full</sun_exposure>
+      <soil_type>Loamy, well-drained</soil_type>
+      <soil_ph>Neutral, acidic</soil_ph>
+      <bloom_time>Summer, fall</bloom_time>
+      <flower_color>Red, pink, orange, yellow, purple, white</flower_color>
+      <Colors>
+         <Pink>
+            <meanings>grace, kindness and beauty</meanings>
+         </Pink>
+         <White>
+            <meanings>purity, innocence and rebirth</meanings>
+         </White>
+         <Yellow>
+            <meanings>help us go through life with a bit of joy and childlike glee</meanings>
+         </Yellow>
+         <Orange>
+            <meanings>joy and excitement</meanings>
+         </Orange>
+      </Colors>
+   </Dahlia>
 </Flowers>
